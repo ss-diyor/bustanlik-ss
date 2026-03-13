@@ -5,7 +5,7 @@
   "type": "module",
 
   "engines": {
-    "node": ">=18"
+    "node": ">=18.x"
   },
   "scripts": {
     "build": "vite build",
